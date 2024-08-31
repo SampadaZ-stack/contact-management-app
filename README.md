@@ -35,5 +35,5 @@ The Contacts Management Application is a full-stack application built using Angu
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-repo/contacts-management-app.git
+   git clone https://github.com/SampadaZ-stack/contact-management-app.git
    cd contacts-management-app/frontend
